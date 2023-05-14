@@ -1,13 +1,27 @@
 # minecraft_guns_mod_recipes
-銃modのレシピ追加参考スクリプト
+銃modのレシピ追加参考スクリプト  
 
 # 使用している環境
 minecraft: 1.12.2  
-modularwarfare(銃mod本体): modularwarfare-2.3.3f  
-MCglTF(銃mod前提): MCglTF-1.12.2-Forge-2.0.3.0  
-CraftTweaker2(レシピ追加mod): CraftTweaker2-1.12-4.1.20.684  
-CraftingEX(レシピ重複を可能にするmod): CraftingEX_1.12-v1.2.0  
-JustEnoughItems(レシピ確認mod): jei_1.12.2-4.16.1.301  
-
+  
+modularwarfare: modularwarfare-2.3.3f  
+→銃mod本体  
+  
+MCglTF: MCglTF-1.12.2-Forge-2.0.3.0  
+→銃modの前提mod  
+  
+CraftTweaker2: CraftTweaker2-1.12-4.1.20.684  
+→レシピ追加mod  
+  
+CraftingEX: CraftingEX_1.12-v1.2.0  
+→同じレシピで別のアイテムを作れたりするmod  
+  
+JustEnoughItems: jei_1.12.2-4.16.1.301  
+→レシピ確認mod  
+  
 # 参考にしたところ
-https://studiopoppo.jp/poppoblog/game-play/28465/#2
+CraftTweakerの使い方  
+https://studiopoppo.jp/poppoblog/game-play/28465/#2  
+  
+ブロックIDの確認方法  
+http://gamenote-book.blogspot.com/2018/10/block-id.html  
