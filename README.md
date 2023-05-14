@@ -1,5 +1,23 @@
 # minecraft_guns_mod_recipes
-銃modのレシピ追加参考スクリプト  
+銃modのレシピ追加参考スクリプト。  
+スクリプトを真似して追加すれば他のアイテムも追加できます。  
+  
+マガジンはマガジン自体の作成レシピと、リロード用レシピを追加しています。  
+`AddAllMagRecipe()` ←マガジン自体の作成関数  
+`AddAllReloadRecipe()`←マガジンリロード用のレシピ
+
+# 現在レシピ追加してある武器
+・P88  
+・FNX45  
+・MP40  
+・MP5  
+・Uzi  
+・AK74u  
+・AK47  
+・HK416  
+・M4A1  
+・SKS  
+・MosinNagant  
 
 # 使用している環境
 minecraft: 1.12.2  
